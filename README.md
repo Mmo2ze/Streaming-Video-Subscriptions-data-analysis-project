@@ -44,7 +44,6 @@ Built in Power BI. Includes:
 ## Tools Used
 - Power Query (data cleaning)
 - Power BI (data model + dashboard)
-- Draw.io (project phases diagram)
 
 ## Project Phases
 1. Data Sources
